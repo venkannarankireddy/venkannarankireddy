@@ -22,8 +22,7 @@
 - Python
 - SQL
 - Java
-- C
-- R
+
 
 ### Data Engineering
 - PySpark
