@@ -75,7 +75,6 @@ I'm continuously strengthening my skills in Python, SQL, Data Engineering, Data 
 - Node.js
 - Express.js
 - Flask
-- REST APIs
 
 🗄️ Databases
 
